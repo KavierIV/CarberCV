@@ -1,6 +1,7 @@
 {
   "name": "carbercvapp",
   "version": "0.1.0",
+  "description": "Bu proje, React.js kullanılarak geliştirilmiş kişisel bir CV oluşturma uygulamasıdır.",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
